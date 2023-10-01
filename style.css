@@ -9,12 +9,10 @@
 .title{
     font-size: 36px;
     margin-bottom: 10px;
-    color:#2c3e50;
 }
 
 .timer{
     font-size: 72px;
-    color:#2c3e50;
 }
 
 button{
@@ -33,16 +31,16 @@ button:hover{
     opacity: 70%;
 }
 
-.start{
+#start{
     background-color: #27ae60;
 }
 
-.stop{
+#stop{
     background-color: #c0392b;
 
 }
 
-.reset{
+#reset{
     background-color:#7f8c8d ;
 
 }
